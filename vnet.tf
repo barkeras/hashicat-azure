@@ -14,3 +14,4 @@ module "network" {
     environment = "dev"
     costcenter  = "it"
   }
+}
